@@ -290,3 +290,6 @@ ERROR 2025-06-30 14:40:25,649 views 6044 6112653312 Erreur dans la vue index: co
 
 ERROR 2025-06-30 14:40:35,934 views 6044 6112653312 Erreur dans la vue index: connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
 
+ERROR 2025-06-30 16:07:31,370 views 6044 6112653312 Erreur dans la vue index: connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+WARNING 2025-06-30 16:07:31,591 log 6044 6130053120 Not Found: /static/img/favicon.ico
